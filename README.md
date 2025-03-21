@@ -1,6 +1,6 @@
 https://physionet.org/content/zhejiang-ehr-critical-care/1.0/
 
-### Critical_Care functions used
+##### Critical_Care functions used
 
 1.  LAG OVER  – Retrieves the value from the previous row in a window function.  
 2.  PARTITION BY  – Divides result sets into partitions for window functions.  
